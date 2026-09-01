@@ -246,14 +246,6 @@ A tourism-focused digital platform designed to provide users with an engaging an
 
 ---
 
-### 🌐 Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub"/>
-  &nbsp;&nbsp;&nbsp;
-
----
-
 ## 🎯 Current Focus
 
 | Area | Focus |
