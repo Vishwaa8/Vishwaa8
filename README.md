@@ -31,13 +31,54 @@ Interested in Full-Stack Development, AI/ML, Cloud Computing, and building pract
 
 ---
 
-## 🤝 Connect With Me
+## 🛠️ Technologies & Tools
 
-<p align="center">
-  <a href="mailto:vishwaudantha@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="42" height="42" alt="Gmail"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vishwaudhantha"><img src="https://img.icons8.com/color/48/linkedin.png" width="42" height="42" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Vishwaa8"><img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" width="42" height="42" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_vishwa.m_"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="42" height="42" alt="Instagram"/></a>
+### 💻 Languages
+
+<img
+  src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,kotlin"
+  height="42"
+  alt="Languages"
+/>
+
+---
+
+### ⚙️ Backend
+
+<img
+  src="https://skillicons.dev/icons?i=nodejs,express"
+  height="42"
+  alt="Backend"
+/>
+
+---
+
+### 🎨 Frontend
+
+<img
+  src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap,tailwind"
+  height="42"
+  alt="Frontend"
+/>
+
+---
+
+### 🗄️ Database
+
+<img
+  src="https://skillicons.dev/icons?i=mongodb,mysql"
+  height="42"
+  alt="Databases"
+/>
+
+---
+
+### 🧰 Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman" height="42" alt="VS Code and Postman"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="40" alt="Google Colab"/>
 </p>
 
 ---
@@ -184,58 +225,6 @@ A tourism-focused digital platform designed to provide users with an engaging an
 
 ---
 
-## 🛠️ Technologies & Tools
-
-### 💻 Languages
-
-<img
-  src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,kotlin"
-  height="42"
-  alt="Languages"
-/>
-
----
-
-### ⚙️ Backend
-
-<img
-  src="https://skillicons.dev/icons?i=nodejs,express"
-  height="42"
-  alt="Backend"
-/>
-
----
-
-### 🎨 Frontend
-
-<img
-  src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap,tailwind"
-  height="42"
-  alt="Frontend"
-/>
-
----
-
-### 🗄️ Database
-
-<img
-  src="https://skillicons.dev/icons?i=mongodb,mysql"
-  height="42"
-  alt="Databases"
-/>
-
----
-
-### 🧰 Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman" height="42" alt="VS Code and Postman"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="40" alt="Google Colab"/>
-</p>
-
----
-
 ## 🎯 Current Focus
 
 | Area | Focus |
@@ -245,6 +234,17 @@ A tourism-focused digital platform designed to provide users with an engaging an
 | ☁️ Cloud | AWS and cloud technologies |
 | 📱 Mobile | Modern mobile application development |
 | 🚀 Growth | Technical and problem-solving skills |
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:vishwaudantha@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="42" height="42" alt="Gmail"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vishwaudhantha"><img src="https://img.icons8.com/color/48/linkedin.png" width="42" height="42" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Vishwaa8"><img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" width="42" height="42" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_vishwa.m_"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="42" height="42" alt="Instagram"/></a>
+</p>
 
 ---
 
