@@ -89,13 +89,17 @@ Interested in Full-Stack Development, AI/ML, Cloud Computing, and building pract
 
 A modern and responsive frontend application designed to provide a smooth and user-friendly digital shopping experience.
 
-**Technologies:**  
-`JavaScript` `React`
-
 <br/>
 
+<img src="https://skillicons.dev/icons?i=js,react" height="38" alt="JavaScript and React"/>
+
+<br/><br/>
+
 <a href="https://github.com/nextgencodex-com/ceylux_frontend">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Ceylux Repository"/>
+  <img
+    src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white"
+    alt="Ceylux Repository"
+  />
 </a>
 
 </td>
@@ -106,13 +110,17 @@ A modern and responsive frontend application designed to provide a smooth and us
 
 A responsive web platform designed for presenting gem-related products through a modern digital interface.
 
-**Technologies:**  
-`JavaScript` `React`
-
 <br/>
 
+<img src="https://skillicons.dev/icons?i=js,react" height="38" alt="JavaScript and React"/>
+
+<br/><br/>
+
 <a href="https://github.com/nextgencodex-com/Gem_website_frontend">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Gem Website Repository"/>
+  <img
+    src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white"
+    alt="Gem Website Repository"
+  />
 </a>
 
 </td>
@@ -127,13 +135,17 @@ A responsive web platform designed for presenting gem-related products through a
 
 A fashion-oriented website frontend focused on responsive layouts, product presentation, and simple navigation.
 
-**Technologies:**  
-`HTML` `CSS` `JavaScript`
-
 <br/>
 
+<img src="https://skillicons.dev/icons?i=html,css,js" height="38" alt="HTML CSS JavaScript"/>
+
+<br/><br/>
+
 <a href="https://github.com/nextgencodex-com/limona-website-frontend">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Limona Repository"/>
+  <img
+    src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white"
+    alt="Limona Repository"
+  />
 </a>
 
 </td>
@@ -144,13 +156,17 @@ A fashion-oriented website frontend focused on responsive layouts, product prese
 
 A tourism-focused digital platform designed to provide users with an engaging and accessible travel experience.
 
-**Technologies:**  
-`JavaScript` `React`
-
 <br/>
 
+<img src="https://skillicons.dev/icons?i=js,react" height="38" alt="JavaScript and React"/>
+
+<br/><br/>
+
 <a href="https://github.com/nextgencodex-com/tourism_-2_frontend">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Tourism Repository"/>
+  <img
+    src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white"
+    alt="Tourism Repository"
+  />
 </a>
 
 </td>
