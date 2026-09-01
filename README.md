@@ -203,37 +203,37 @@ A tourism-focused digital platform designed to provide users with an engaging an
 
 <tr>
 
-<td align="center" colspan="2" width="33%">
+<td align="center" width="33%" valign="middle">
 
 ### 💻 Languages
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,kotlin" height="42" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,kotlin" height="42" alt="Languages"/>
 
 <br/><br/>
 
 </td>
 
-<td align="center" colspan="2" width="33%">
+<td align="center" width="33%" valign="middle">
 
 ### 🎨 Frontend
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap,tailwind" height="42" alt="Frontend Technologies"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap,tailwind" height="42" alt="Frontend"/>
 
 <br/><br/>
 
 </td>
 
-<td align="center" colspan="2" width="33%">
+<td align="center" width="33%" valign="middle">
 
 ### ⚙️ Backend
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" height="42" alt="Backend Technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" height="42" alt="Backend"/>
 
 <br/><br/>
 
@@ -243,7 +243,7 @@ A tourism-focused digital platform designed to provide users with an engaging an
 
 <tr>
 
-<td align="center" colspan="3" width="50%">
+<td align="center" width="33%" valign="middle">
 
 ### 🗄️ Databases
 
@@ -255,30 +255,41 @@ A tourism-focused digital platform designed to provide users with an engaging an
 
 </td>
 
-<td align="center" colspan="3" width="50%">
+<td align="center" width="33%" valign="middle">
 
-### 🧰 Tools
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,github" height="42" alt="Development Tools"/>
+### 🧰 Development Tools
 
 <br/>
 
-<img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="40" alt="Google Colab"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/github/FFFFFF" height="40" alt="GitHub Desktop"/>
+<img src="https://skillicons.dev/icons?i=vscode,postman" height="42" alt="Development Tools"/>
 
 <br/><br/>
 
-<sub>VS Code • Postman • Google Colab • GitHub • GitHub Desktop</sub>
+</td>
+
+<td align="center" width="33%" valign="middle">
+
+### 🌐 Platforms
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub"/>
+
+&nbsp;&nbsp;
+
+<img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="40" alt="Google Colab"/>
+
+&nbsp;&nbsp;
+
+<img src="https://img.icons8.com/color/48/github--v1.png" height="40" alt="GitHub Desktop"/>
+
+<br/><br/>
 
 </td>
 
 </tr>
 
 </table>
-
 ---
 
 ## 🎯 Current Focus
