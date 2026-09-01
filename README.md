@@ -176,27 +176,11 @@ A tourism-focused digital platform designed to provide users with an engaging an
 
 ## 📊 GitHub Activity
 
-<div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vishwaa8&theme=github_dark"
-  width="31%"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vishwaa8&theme=github_dark&utcOffset=5.5"
-  width="31%"
-  alt="Productive Time"
-/>
-
-<img
-  src="https://streak-stats.demolab.com?user=Vishwaa8&theme=github-dark-blue&hide_border=true"
-  width="31%"
-  alt="GitHub Streak"
-/>
-
-</div>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vishwaa8&theme=github_dark" width="31%" alt="GitHub Stats"/>&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vishwaa8&theme=github_dark&utcOffset=5.5" width="31%" alt="Productive Time"/>&nbsp;
+<img src="https://streak-stats.demolab.com?user=Vishwaa8&theme=github-dark-blue&hide_border=true" width="31%" alt="GitHub Streak"/>
+</p>
 
 ---
 
