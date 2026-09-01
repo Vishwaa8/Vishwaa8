@@ -36,22 +36,42 @@ Interested in Full-Stack Development, AI/ML, Cloud Computing, and building pract
 <div align="center">
 
 <a href="mailto:vishwaudantha@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="38" alt="Gmail"/>
+  <img
+    src="https://img.icons8.com/color/48/gmail-new.png"
+    width="42"
+    height="42"
+    alt="Gmail"
+  />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/vishwaudhantha">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="38" alt="LinkedIn"/>
+  <img
+    src="https://img.icons8.com/color/48/linkedin.png"
+    width="42"
+    height="42"
+    alt="LinkedIn"
+  />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Vishwaa8">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="38" alt="GitHub"/>
+  <img
+    src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png"
+    width="42"
+    height="42"
+    alt="GitHub"
+  />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/_vishwa.m_">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="38" alt="Instagram"/>
+  <img
+    src="https://img.icons8.com/fluency/48/instagram-new.png"
+    width="42"
+    height="42"
+    alt="Instagram"
+  />
 </a>
 
 </div>
