@@ -200,10 +200,8 @@ A tourism-focused digital platform designed to provide users with an engaging an
 ## 🛠️ Technologies & Tools
 
 <table width="100%">
-
-<tr>
-
-<td align="center" width="33%" valign="middle">
+  <tr>
+    <td width="33.33%" align="center" valign="top">
 
 ### 💻 Languages
 
@@ -211,11 +209,11 @@ A tourism-focused digital platform designed to provide users with an engaging an
 
 <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,kotlin" height="42" alt="Languages"/>
 
-<br/><br/>
+<br/><br/><br/><br/>
 
-</td>
+    </td>
 
-<td align="center" width="33%" valign="middle">
+    <td width="33.33%" align="center" valign="top">
 
 ### 🎨 Frontend
 
@@ -223,11 +221,11 @@ A tourism-focused digital platform designed to provide users with an engaging an
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap,tailwind" height="42" alt="Frontend"/>
 
-<br/><br/>
+<br/><br/><br/><br/>
 
-</td>
+    </td>
 
-<td align="center" width="33%" valign="middle">
+    <td width="33.33%" align="center" valign="top">
 
 ### ⚙️ Backend
 
@@ -235,15 +233,13 @@ A tourism-focused digital platform designed to provide users with an engaging an
 
 <img src="https://skillicons.dev/icons?i=nodejs,express" height="42" alt="Backend"/>
 
-<br/><br/>
+<br/><br/><br/><br/>
 
-</td>
+    </td>
+  </tr>
 
-</tr>
-
-<tr>
-
-<td align="center" width="33%" valign="middle">
+  <tr>
+    <td width="33.33%" align="center" valign="top">
 
 ### 🗄️ Databases
 
@@ -251,11 +247,11 @@ A tourism-focused digital platform designed to provide users with an engaging an
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="42" alt="Databases"/>
 
-<br/><br/>
+<br/><br/><br/><br/>
 
-</td>
+    </td>
 
-<td align="center" width="33%" valign="middle">
+    <td width="33.33%" align="center" valign="top">
 
 ### 🧰 Development Tools
 
@@ -263,11 +259,11 @@ A tourism-focused digital platform designed to provide users with an engaging an
 
 <img src="https://skillicons.dev/icons?i=vscode,postman" height="42" alt="Development Tools"/>
 
-<br/><br/>
+<br/><br/><br/><br/>
 
-</td>
+    </td>
 
-<td align="center" width="33%" valign="middle">
+    <td width="33.33%" align="center" valign="top">
 
 ### 🌐 Platforms
 
@@ -275,20 +271,18 @@ A tourism-focused digital platform designed to provide users with an engaging an
 
 <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub"/>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="40" alt="Google Colab"/>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
-<img src="https://img.icons8.com/color/48/github--v1.png" height="40" alt="GitHub Desktop"/>
+<img src="https://img.icons8.com/color/48/github-desktop.png" height="40" alt="GitHub Desktop"/>
 
-<br/><br/>
+<br/><br/><br/><br/>
 
-</td>
-
-</tr>
-
+    </td>
+  </tr>
 </table>
 ---
 
