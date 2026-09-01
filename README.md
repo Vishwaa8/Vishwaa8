@@ -33,51 +33,12 @@ Interested in Full-Stack Development, AI/ML, Cloud Computing, and building pract
 
 ## 🤝 Connect With Me
 
-<div align="center">
-
-<a href="mailto:vishwaudantha@gmail.com">
-  <img
-    src="https://img.icons8.com/color/48/gmail-new.png"
-    width="42"
-    height="42"
-    alt="Gmail"
-  />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/vishwaudhantha">
-  <img
-    src="https://img.icons8.com/color/48/linkedin.png"
-    width="42"
-    height="42"
-    alt="LinkedIn"
-  />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/Vishwaa8">
-  <img
-    src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png"
-    width="42"
-    height="42"
-    alt="GitHub"
-  />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/_vishwa.m_">
-  <img
-    src="https://img.icons8.com/fluency/48/instagram-new.png"
-    width="42"
-    height="42"
-    alt="Instagram"
-  />
-</a>
-
-</div>
+<p align="center">
+  <a href="mailto:vishwaudantha@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="42" height="42" alt="Gmail"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vishwaudhantha"><img src="https://img.icons8.com/color/48/linkedin.png" width="42" height="42" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Vishwaa8"><img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" width="42" height="42" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_vishwa.m_"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="42" height="42" alt="Instagram"/></a>
+</p>
 
 ---
 
@@ -235,13 +196,7 @@ A tourism-focused digital platform designed to provide users with an engaging an
 
 ## 🛠️ Technologies & Tools
 
-<table width="100%">
-
-<tr>
-
-<td width="33%" height="170" align="center" valign="middle">
-
-<h3>💻 Languages</h3>
+### 💻 Languages
 
 <img
   src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,kotlin"
@@ -249,23 +204,9 @@ A tourism-focused digital platform designed to provide users with an engaging an
   alt="Languages"
 />
 
-</td>
+---
 
-<td width="33%" height="170" align="center" valign="middle">
-
-<h3>🎨 Frontend</h3>
-
-<img
-  src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap,tailwind"
-  height="42"
-  alt="Frontend"
-/>
-
-</td>
-
-<td width="33%" height="170" align="center" valign="middle">
-
-<h3>⚙️ Backend</h3>
+### ⚙️ Backend
 
 <img
   src="https://skillicons.dev/icons?i=nodejs,express"
@@ -273,15 +214,19 @@ A tourism-focused digital platform designed to provide users with an engaging an
   alt="Backend"
 />
 
-</td>
+---
 
-</tr>
+### 🎨 Frontend
 
-<tr>
+<img
+  src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap,tailwind"
+  height="42"
+  alt="Frontend"
+/>
 
-<td width="33%" height="170" align="center" valign="middle">
+---
 
-<h3>🗄️ Databases</h3>
+### 🗄️ Database
 
 <img
   src="https://skillicons.dev/icons?i=mongodb,mysql"
@@ -289,28 +234,14 @@ A tourism-focused digital platform designed to provide users with an engaging an
   alt="Databases"
 />
 
-</td>
+---
 
-<td width="33%" height="170" align="center" valign="middle">
-
-<h3>🧰 Development Tools</h3>
+### 🧰 Development Tools
 
 <img
   src="https://skillicons.dev/icons?i=vscode,postman"
   height="42"
   alt="Development Tools"
-/>
-
-</td>
-
-<td width="33%" height="170" align="center" valign="middle">
-
-<h3>🌐 Platforms</h3>
-
-<img
-  src="https://skillicons.dev/icons?i=github"
-  height="42"
-  alt="GitHub"
 />
 
 &nbsp;&nbsp;
@@ -321,6 +252,16 @@ A tourism-focused digital platform designed to provide users with an engaging an
   alt="Google Colab"
 />
 
+---
+
+### 🌐 Platforms
+
+<img
+  src="https://skillicons.dev/icons?i=github"
+  height="42"
+  alt="GitHub"
+/>
+
 &nbsp;&nbsp;
 
 <img
@@ -328,12 +269,6 @@ A tourism-focused digital platform designed to provide users with an engaging an
   height="40"
   alt="GitHub Desktop"
 />
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
