@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Vishwa Udhantha
 
-### BSc (Hons) in Information Technology Undergraduate  
+### BSc (Hons) in Information Technology Undergraduate
 ### Specialization in Information Technology
 
 <p>
@@ -43,6 +43,7 @@ Interested in Full-Stack Development, AI/ML, Cloud Computing, and building pract
     alt="Gmail"
   />
 </a>
+
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/vishwaudhantha">
@@ -53,6 +54,7 @@ Interested in Full-Stack Development, AI/ML, Cloud Computing, and building pract
     alt="LinkedIn"
   />
 </a>
+
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Vishwaa8">
@@ -63,6 +65,7 @@ Interested in Full-Stack Development, AI/ML, Cloud Computing, and building pract
     alt="GitHub"
   />
 </a>
+
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/_vishwa.m_">
@@ -75,23 +78,32 @@ Interested in Full-Stack Development, AI/ML, Cloud Computing, and building pract
 </a>
 
 </div>
+
 ---
 
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%">
 
 <tr>
 
 <td width="50%" valign="top">
 
-### 🛍️ Ceylux
+<h3>🛍️ Ceylux</h3>
 
+<p>
 A modern and responsive frontend application designed to provide a smooth and user-friendly digital shopping experience.
+</p>
 
-**Technologies:**
+<strong>Technologies:</strong>
 
-<img src="https://skillicons.dev/icons?i=js,react" height="38" alt="JavaScript and React"/>
+<br/><br/>
+
+<img
+  src="https://skillicons.dev/icons?i=js,react"
+  height="38"
+  alt="JavaScript and React"
+/>
 
 <br/><br/>
 
@@ -106,13 +118,21 @@ A modern and responsive frontend application designed to provide a smooth and us
 
 <td width="50%" valign="top">
 
-### 💎 Gem Website
+<h3>💎 Gem Website</h3>
 
+<p>
 A responsive web platform designed for presenting gem-related products through a modern digital interface.
+</p>
 
-**Technologies:**
+<strong>Technologies:</strong>
 
-<img src="https://skillicons.dev/icons?i=js,react" height="38" alt="JavaScript and React"/>
+<br/><br/>
+
+<img
+  src="https://skillicons.dev/icons?i=js,react"
+  height="38"
+  alt="JavaScript and React"
+/>
 
 <br/><br/>
 
@@ -131,13 +151,21 @@ A responsive web platform designed for presenting gem-related products through a
 
 <td width="50%" valign="top">
 
-### 👗 Limona Website
+<h3>👗 Limona Website</h3>
 
+<p>
 A fashion-oriented website frontend focused on responsive layouts, product presentation, and simple navigation.
+</p>
 
-**Technologies:**
+<strong>Technologies:</strong>
 
-<img src="https://skillicons.dev/icons?i=html,css,js" height="38" alt="HTML CSS JavaScript"/>
+<br/><br/>
+
+<img
+  src="https://skillicons.dev/icons?i=html,css,js"
+  height="38"
+  alt="HTML CSS JavaScript"
+/>
 
 <br/><br/>
 
@@ -152,13 +180,21 @@ A fashion-oriented website frontend focused on responsive layouts, product prese
 
 <td width="50%" valign="top">
 
-### 🌍 Tourism Platform
+<h3>🌍 Tourism Platform</h3>
 
+<p>
 A tourism-focused digital platform designed to provide users with an engaging and accessible travel experience.
+</p>
 
-**Technologies:**
+<strong>Technologies:</strong>
 
-<img src="https://skillicons.dev/icons?i=js,react" height="38" alt="JavaScript and React"/>
+<br/><br/>
+
+<img
+  src="https://skillicons.dev/icons?i=js,react"
+  height="38"
+  alt="JavaScript and React"
+/>
 
 <br/><br/>
 
@@ -200,61 +236,103 @@ A tourism-focused digital platform designed to provide users with an engaging an
 ## 🛠️ Technologies & Tools
 
 <table width="100%">
-  <tr>
-    <td width="33.33%" align="center" valign="middle">
-      <h3>💻 Languages</h3>
-      <br/>
-      <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,kotlin" height="42" alt="Languages"/>
-      <br/><br/>
-    </td>
 
-    <td width="33.33%" align="center" valign="middle">
-      <h3>🎨 Frontend</h3>
-      <br/>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap,tailwind" height="42" alt="Frontend"/>
-      <br/><br/>
-    </td>
+<tr>
 
-    <td width="33.33%" align="center" valign="middle">
-      <h3>⚙️ Backend</h3>
-      <br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,express" height="42" alt="Backend"/>
-      <br/><br/>
-    </td>
-  </tr>
+<td width="33%" height="170" align="center" valign="middle">
 
-  <tr>
-    <td width="33.33%" align="center" valign="middle">
-      <h3>🗄️ Databases</h3>
-      <br/>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="42" alt="Databases"/>
-      <br/><br/>
-    </td>
+<h3>💻 Languages</h3>
 
-    <td width="33.33%" align="center" valign="middle">
-      <h3>🧰 Development Tools</h3>
-      <br/>
-      <img src="https://skillicons.dev/icons?i=vscode,postman" height="42" alt="Development Tools"/>
-      <br/><br/>
-    </td>
+<img
+  src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,kotlin"
+  height="42"
+  alt="Languages"
+/>
 
-    <td width="33.33%" align="center" valign="middle">
-      <h3>🌐 Platforms</h3>
-      <br/>
+</td>
 
-      <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub"/>
+<td width="33%" height="170" align="center" valign="middle">
 
-      &nbsp;&nbsp;
+<h3>🎨 Frontend</h3>
 
-      <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="40" alt="Google Colab"/>
+<img
+  src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap,tailwind"
+  height="42"
+  alt="Frontend"
+/>
 
-      &nbsp;&nbsp;
+</td>
 
-      <img src="https://img.icons8.com/color/48/github--v1.png" height="40" alt="GitHub Desktop"/>
+<td width="33%" height="170" align="center" valign="middle">
 
-      <br/><br/>
-    </td>
-  </tr>
+<h3>⚙️ Backend</h3>
+
+<img
+  src="https://skillicons.dev/icons?i=nodejs,express"
+  height="42"
+  alt="Backend"
+/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" height="170" align="center" valign="middle">
+
+<h3>🗄️ Databases</h3>
+
+<img
+  src="https://skillicons.dev/icons?i=mongodb,mysql"
+  height="42"
+  alt="Databases"
+/>
+
+</td>
+
+<td width="33%" height="170" align="center" valign="middle">
+
+<h3>🧰 Development Tools</h3>
+
+<img
+  src="https://skillicons.dev/icons?i=vscode,postman"
+  height="42"
+  alt="Development Tools"
+/>
+
+</td>
+
+<td width="33%" height="170" align="center" valign="middle">
+
+<h3>🌐 Platforms</h3>
+
+<img
+  src="https://skillicons.dev/icons?i=github"
+  height="42"
+  alt="GitHub"
+/>
+
+&nbsp;&nbsp;
+
+<img
+  src="https://cdn.simpleicons.org/googlecolab/F9AB00"
+  height="40"
+  alt="Google Colab"
+/>
+
+&nbsp;&nbsp;
+
+<img
+  src="https://img.icons8.com/color/48/github--v1.png"
+  height="40"
+  alt="GitHub Desktop"
+/>
+
+</td>
+
+</tr>
+
 </table>
 
 ---
