@@ -238,37 +238,21 @@ A tourism-focused digital platform designed to provide users with an engaging an
 
 ### 🧰 Development Tools
 
-<img
-  src="https://skillicons.dev/icons?i=vscode,postman"
-  height="42"
-  alt="Development Tools"
-/>
-
-&nbsp;&nbsp;
-
-<img
-  src="https://cdn.simpleicons.org/googlecolab/F9AB00"
-  height="40"
-  alt="Google Colab"
-/>
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman" height="42" alt="VS Code and Postman"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="40" alt="Google Colab"/>
+</p>
 
 ---
 
 ### 🌐 Platforms
 
-<img
-  src="https://skillicons.dev/icons?i=github"
-  height="42"
-  alt="GitHub"
-/>
-
-&nbsp;&nbsp;
-
-<img
-  src="https://img.icons8.com/color/48/github--v1.png"
-  height="40"
-  alt="GitHub Desktop"
-/>
+<p>
+  <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/github--v1.png" height="40" alt="GitHub Desktop"/>
+</p>
 
 ---
 
