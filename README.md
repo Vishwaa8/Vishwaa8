@@ -201,89 +201,62 @@ A tourism-focused digital platform designed to provide users with an engaging an
 
 <table width="100%">
   <tr>
-    <td width="33.33%" align="center" valign="top">
-
-### 💻 Languages
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,kotlin" height="42" alt="Languages"/>
-
-<br/><br/><br/><br/>
-
+    <td width="33.33%" align="center" valign="middle">
+      <h3>💻 Languages</h3>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,kotlin" height="42" alt="Languages"/>
+      <br/><br/>
     </td>
 
-    <td width="33.33%" align="center" valign="top">
-
-### 🎨 Frontend
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap,tailwind" height="42" alt="Frontend"/>
-
-<br/><br/><br/><br/>
-
+    <td width="33.33%" align="center" valign="middle">
+      <h3>🎨 Frontend</h3>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap,tailwind" height="42" alt="Frontend"/>
+      <br/><br/>
     </td>
 
-    <td width="33.33%" align="center" valign="top">
-
-### ⚙️ Backend
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" height="42" alt="Backend"/>
-
-<br/><br/><br/><br/>
-
+    <td width="33.33%" align="center" valign="middle">
+      <h3>⚙️ Backend</h3>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express" height="42" alt="Backend"/>
+      <br/><br/>
     </td>
   </tr>
 
   <tr>
-    <td width="33.33%" align="center" valign="top">
-
-### 🗄️ Databases
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" height="42" alt="Databases"/>
-
-<br/><br/><br/><br/>
-
+    <td width="33.33%" align="center" valign="middle">
+      <h3>🗄️ Databases</h3>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="42" alt="Databases"/>
+      <br/><br/>
     </td>
 
-    <td width="33.33%" align="center" valign="top">
-
-### 🧰 Development Tools
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=vscode,postman" height="42" alt="Development Tools"/>
-
-<br/><br/><br/><br/>
-
+    <td width="33.33%" align="center" valign="middle">
+      <h3>🧰 Development Tools</h3>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=vscode,postman" height="42" alt="Development Tools"/>
+      <br/><br/>
     </td>
 
-    <td width="33.33%" align="center" valign="top">
+    <td width="33.33%" align="center" valign="middle">
+      <h3>🌐 Platforms</h3>
+      <br/>
 
-### 🌐 Platforms
+      <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub"/>
 
-<br/>
+      &nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub"/>
+      <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="40" alt="Google Colab"/>
 
-&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;
 
-<img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="40" alt="Google Colab"/>
+      <img src="https://img.icons8.com/color/48/github--v1.png" height="40" alt="GitHub Desktop"/>
 
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.icons8.com/color/48/github-desktop.png" height="40" alt="GitHub Desktop"/>
-
-<br/><br/><br/><br/>
-
+      <br/><br/>
     </td>
   </tr>
 </table>
+
 ---
 
 ## 🎯 Current Focus
