@@ -89,7 +89,7 @@ Interested in Full-Stack Development, AI/ML, Cloud Computing, and building pract
 
 A modern and responsive frontend application designed to provide a smooth and user-friendly digital shopping experience.
 
-<br/>
+**Technologies:**
 
 <img src="https://skillicons.dev/icons?i=js,react" height="38" alt="JavaScript and React"/>
 
@@ -110,7 +110,7 @@ A modern and responsive frontend application designed to provide a smooth and us
 
 A responsive web platform designed for presenting gem-related products through a modern digital interface.
 
-<br/>
+**Technologies:**
 
 <img src="https://skillicons.dev/icons?i=js,react" height="38" alt="JavaScript and React"/>
 
@@ -135,7 +135,7 @@ A responsive web platform designed for presenting gem-related products through a
 
 A fashion-oriented website frontend focused on responsive layouts, product presentation, and simple navigation.
 
-<br/>
+**Technologies:**
 
 <img src="https://skillicons.dev/icons?i=html,css,js" height="38" alt="HTML CSS JavaScript"/>
 
@@ -156,7 +156,7 @@ A fashion-oriented website frontend focused on responsive layouts, product prese
 
 A tourism-focused digital platform designed to provide users with an engaging and accessible travel experience.
 
-<br/>
+**Technologies:**
 
 <img src="https://skillicons.dev/icons?i=js,react" height="38" alt="JavaScript and React"/>
 
