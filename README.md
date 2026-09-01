@@ -31,49 +31,53 @@ Interested in Full-Stack Development, AI/ML, Cloud Computing, and building pract
 
 ---
 
-## 🤝 Connect With Me
+## Connect with me:
 
-<div align="center">
+<p align="left">
+
+<a href="https://www.linkedin.com/in/vishwaudhantha" target="_blank">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+    alt="LinkedIn"
+    width="40"
+    height="40"
+  />
+</a>
+
+&nbsp;&nbsp;
 
 <a href="mailto:vishwaudantha@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="38" alt="Gmail"/>
+  <img
+    src="https://cdn.simpleicons.org/gmail/EA4335"
+    alt="Gmail"
+    width="40"
+    height="40"
+  />
 </a>
+
 &nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/vishwaudhantha">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="38" alt="LinkedIn"/>
+<a href="https://www.facebook.com/" target="_blank">
+  <img
+    src="https://cdn.simpleicons.org/facebook/1877F2"
+    alt="Facebook"
+    width="40"
+    height="40"
+  />
 </a>
+
 &nbsp;&nbsp;
 
-<a href="https://github.com/Vishwaa8">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="38" alt="GitHub"/>
+<a href="https://www.instagram.com/_vishwa.m_/" target="_blank">
+  <img
+    src="https://cdn.simpleicons.org/instagram/E4405F"
+    alt="Instagram"
+    width="40"
+    height="40"
+  />
 </a>
-&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/_vishwa.m_">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="38" alt="Instagram"/>
-</a>
-
-</div>
-
----
-
-## 🛠️ Languages & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,kotlin" alt="Languages"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap,tailwind,nodejs,express" alt="Frameworks"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,aws,figma,vscode,postman" alt="Tools"/>
-
-</div>
-
+</p>
 ---
 
 ## 🚀 Featured Projects
