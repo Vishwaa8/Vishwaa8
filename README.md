@@ -1,20 +1,16 @@
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Vishwa%20Udhantha&fontAlign=50&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlign=50&descAlignY=55&animation=fadeIn&fontSize=45&color=0:0D1117,50:1F6FEB,100:58A6FF"
-  width="100%"
-  alt="Vishwa Udhantha Header"
-/>
+# Hi 👋, I'm Vishwa Udhantha
+
+### BSc (Hons) in Information Technology Undergraduate  
+### Specialization in Information Technology
+
+<p>
+Interested in Full-Stack Development, AI/ML, Cloud Computing, and building practical digital solutions.
+</p>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Scalable+Digital+Solutions;Full+Stack+Web+Development;Exploring+Artificial+Intelligence+%26+Machine+Learning;Cloud+Computing+%26+AWS;Turning+Ideas+Into+Real-World+Products"
-  alt="Typing Animation"
-/>
-
-<br/>
-
-<img
-  src="https://komarev.com/ghpvc/?username=Vishwaa8&label=PROFILE+VIEWS&style=for-the-badge&color=1f6feb"
+  src="https://komarev.com/ghpvc/?username=Vishwaa8&label=PROFILE+VIEWS&style=flat-square&color=1f6feb"
   alt="Profile Views"
 />
 
@@ -24,64 +20,54 @@
 
 ## 👨‍💻 About Me
 
-I am a Software Engineering undergraduate passionate about building modern, scalable, and practical digital solutions.
-
-- 💻 Focused on **Full Stack Development**
+- 🎓 Studying **BSc (Hons) in Information Technology** at **SLIIT**
+- 💻 Interested in **Full-Stack Development**
 - 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- ☁️ Expanding my knowledge in **Cloud Computing & AWS**
-- 📱 Interested in modern **Web & Mobile Application Development**
-- 🚀 Passionate about turning ideas into real-world software products
-- 🎯 Continuously improving my software engineering and problem-solving skills
+- ☁️ Learning **Cloud Computing & AWS**
+- 📱 Interested in **Web & Mobile Application Development**
+- 🚀 Enjoy building practical, user-friendly digital solutions
+- 🎯 Continuously improving my technical and problem-solving skills
 - 📍 Based in **Sri Lanka**
 
 ---
 
-## 🛠️ Tech Stack
+## 🤝 Connect With Me
 
 <div align="center">
 
-### 💻 Programming Languages
+<a href="mailto:vishwaudantha@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-<img
-  src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,kotlin"
-  alt="Programming Languages"
-/>
+<a href="https://www.linkedin.com/in/vishwaudhantha">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-<br/><br/>
+<a href="https://github.com/Vishwaa8">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-### 🎨 Frontend Development
+<a href="https://www.instagram.com/_vishwa.m_">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 
-<img
-  src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap,tailwind"
-  alt="Frontend Technologies"
-/>
+</div>
 
-<br/><br/>
+---
 
-### ⚙️ Backend Development
+## 🛠️ Languages & Tools
 
-<img
-  src="https://skillicons.dev/icons?i=nodejs,express"
-  alt="Backend Technologies"
-/>
+<div align="center">
 
-<br/><br/>
-
-### 🗄️ Databases
-
-<img
-  src="https://skillicons.dev/icons?i=mongodb,mysql"
-  alt="Databases"
-/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,kotlin" alt="Languages"/>
 
 <br/><br/>
 
-### 🧰 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap,tailwind,nodejs,express" alt="Frameworks"/>
 
-<img
-  src="https://skillicons.dev/icons?i=git,github,aws,figma,vscode,postman"
-  alt="Tools and Platforms"
-/>
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,aws,figma,vscode,postman" alt="Tools"/>
 
 </div>
 
@@ -97,19 +83,15 @@ I am a Software Engineering undergraduate passionate about building modern, scal
 
 ### 🛍️ Ceylux
 
-A modern and responsive frontend application designed to deliver a smooth and user-friendly digital shopping experience.
+A modern and responsive frontend application designed to provide a smooth and user-friendly digital shopping experience.
 
-**Technologies**
+**Technologies:**  
+`JavaScript` `React`
 
-`JavaScript` `React` `Frontend Development`
-
-<br/><br/>
+<br/>
 
 <a href="https://github.com/nextgencodex-com/ceylux_frontend">
-<img
-  src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
-  alt="Ceylux Repository"
-/>
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Ceylux Repository"/>
 </a>
 
 </td>
@@ -118,19 +100,15 @@ A modern and responsive frontend application designed to deliver a smooth and us
 
 ### 💎 Gem Website
 
-A responsive gem-focused web platform designed for presenting products through a modern and intuitive digital interface.
+A responsive web platform designed for presenting gem-related products through a modern digital interface.
 
-**Technologies**
+**Technologies:**  
+`JavaScript` `React`
 
-`JavaScript` `React` `Web Development`
-
-<br/><br/>
+<br/>
 
 <a href="https://github.com/nextgencodex-com/Gem_website_frontend">
-<img
-  src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
-  alt="Gem Website Repository"
-/>
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Gem Website Repository"/>
 </a>
 
 </td>
@@ -143,19 +121,15 @@ A responsive gem-focused web platform designed for presenting products through a
 
 ### 👗 Limona Website
 
-A modern fashion-oriented website frontend focused on responsive layouts, product presentation, and user-friendly navigation.
+A fashion-oriented website frontend focused on responsive layouts, product presentation, and simple navigation.
 
-**Technologies**
-
+**Technologies:**  
 `HTML` `CSS` `JavaScript`
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/nextgencodex-com/limona-website-frontend">
-<img
-  src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
-  alt="Limona Repository"
-/>
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Limona Repository"/>
 </a>
 
 </td>
@@ -166,17 +140,13 @@ A modern fashion-oriented website frontend focused on responsive layouts, produc
 
 A tourism-focused digital platform designed to provide users with an engaging and accessible travel experience.
 
-**Technologies**
+**Technologies:**  
+`JavaScript` `React`
 
-`JavaScript` `React` `Frontend Development`
-
-<br/><br/>
+<br/>
 
 <a href="https://github.com/nextgencodex-com/tourism_-2_frontend">
-<img
-  src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
-  alt="Tourism Repository"
-/>
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Tourism Repository"/>
 </a>
 
 </td>
@@ -187,25 +157,20 @@ A tourism-focused digital platform designed to provide users with an engaging an
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vishwaa8&theme=github_dark"
   height="170"
-  alt="GitHub Statistics"
+  alt="GitHub Stats"
 />
 
-</div>
-
-<br/>
-
-<div align="center">
-
 <img
-  src="https://streak-stats.demolab.com?user=Vishwaa8&theme=github-dark-blue&hide_border=true"
-  alt="GitHub Streak"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vishwaa8&theme=github_dark"
+  height="170"
+  alt="Languages"
 />
 
 </div>
@@ -216,76 +181,12 @@ A tourism-focused digital platform designed to provide users with an engaging an
 
 <div align="center">
 
-<img
-  src="https://skillicons.dev/icons?i=java,js,ts,python,html,css"
-  alt="Primary Programming Languages"
-/>
-
-<br/><br/>
-
-<img
-  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
-  alt="Java"
-/>
-
-<img
-  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-  alt="JavaScript"
-/>
-
-<img
-  src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
-  alt="TypeScript"
-/>
-
-<img
-  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-  alt="Python"
-/>
-
-<img
-  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-  alt="HTML5"
-/>
-
-<img
-  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-  alt="CSS3"
-/>
-
-</div>
-
----
-
-## ⚡ Developer Activity
-
-<div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vishwaa8&theme=github_dark&utcOffset=5.5"
-  height="170"
-  alt="Productive Time"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vishwaa8&theme=github_dark"
-  height="170"
-  alt="Most Commit Language"
-/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/Vishwaa8/Vishwaa8/output/github-contribution-grid-snake-dark.svg"
-  width="100%"
-  alt="Contribution Snake Animation"
-/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
 
 </div>
 
@@ -293,68 +194,18 @@ A tourism-focused digital platform designed to provide users with an engaging an
 
 ## 🎯 Current Focus
 
-<div align="center">
-
-| Area | Current Focus |
+| Area | Focus |
 |---|---|
-| 💻 Development | Building scalable full-stack applications |
-| 🤖 AI & ML | Exploring intelligent and data-driven solutions |
-| ☁️ Cloud | Learning AWS and modern cloud technologies |
-| 📱 UI/UX | Creating responsive and user-friendly experiences |
-| 🚀 Growth | Improving software engineering and problem-solving skills |
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="mailto:vishwaudantha@gmail.com">
-<img
-  src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-  alt="Email"
-/>
-</a>
-
-<a href="https://www.linkedin.com/in/vishwaudhantha">
-<img
-  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  alt="LinkedIn"
-/>
-</a>
-
-<a href="https://github.com/Vishwaa8">
-<img
-  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-  alt="GitHub"
-/>
-</a>
-
-<a href="https://www.instagram.com/_vishwa.m_">
-<img
-  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-  alt="Instagram"
-/>
-</a>
-
-</div>
-
-<br/>
+| 💻 Development | Full-stack web applications |
+| 🤖 AI / ML | Machine learning and intelligent systems |
+| ☁️ Cloud | AWS and cloud technologies |
+| 📱 Mobile | Modern mobile application development |
+| 🚀 Growth | Technical and problem-solving skills |
 
 ---
 
 <div align="center">
 
-### 💡 Code • Create • Innovate
-
-Building ideas into meaningful digital experiences.
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:58A6FF,50:1F6FEB,100:0D1117"
-  width="100%"
-  alt="Footer"
-/>
+### Thanks for visiting my profile 👋
 
 </div>
