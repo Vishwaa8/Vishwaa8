@@ -252,13 +252,6 @@ A tourism-focused digital platform designed to provide users with an engaging an
   <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub"/>
   &nbsp;&nbsp;&nbsp;
 
-  <img
-    src="https://img.icons8.com/fluency/48/github.png"
-    height="42"
-    alt="GitHub Desktop"
-  />
-</p>
-
 ---
 
 ## 🎯 Current Focus
