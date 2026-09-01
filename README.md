@@ -36,19 +36,22 @@ Interested in Full-Stack Development, AI/ML, Cloud Computing, and building pract
 <div align="center">
 
 <a href="mailto:vishwaudantha@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="38" alt="Gmail"/>
 </a>
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/vishwaudhantha">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="38" alt="LinkedIn"/>
 </a>
+&nbsp;&nbsp;
 
 <a href="https://github.com/Vishwaa8">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="38" alt="GitHub"/>
 </a>
+&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/_vishwa.m_">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="38" alt="Instagram"/>
 </a>
 
 </div>
