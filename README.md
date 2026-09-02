@@ -21,6 +21,7 @@ Interested in Full-Stack Development, AI/ML, Cloud Computing, and building pract
 ## 👨‍💻 About Me
 
 - 🎓 Studying **BSc (Hons) in Information Technology** at **SLIIT**
+- 💼 Currently working as an **Associate Project Manager** at **NextGen CodeX (Pvt) Ltd**
 - 💻 Interested in **Full-Stack Development**
 - 🤖 Exploring **Artificial Intelligence & Machine Learning**
 - ☁️ Learning **Cloud Computing & AWS**
